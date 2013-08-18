@@ -6,9 +6,4 @@
 # 
 # All rights reserved - Do Not Redistribute
 #
-
-"resolver" => {
-  "nameservers" => ["8.8.8.8", "8.8.4.4"]
-}
-
 include_recipe "resolver"
