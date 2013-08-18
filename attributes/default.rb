@@ -1,2 +1,2 @@
 # override default
-normal['resolver']['nameservers'] = ['8.8.8.8', '8.8.4.4']
+override['resolver']['nameservers'] = ['8.8.8.8', '8.8.4.4']
